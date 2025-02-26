@@ -1,6 +1,6 @@
 ### IntelliJ IDEA ###
 JavaQA_2.iml
-idea/
+.idea/
 *.iml
 out/
 !**/src/main/**/out/
